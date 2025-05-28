@@ -1,0 +1,54 @@
+
+            body {
+                font-family: monospace;margin-left:10px; background-color: rgb(0, 0, 0);
+            }
+            h1 {font-family: monospace; color: rgb(255, 255, 255);
+               
+            }
+            .info {
+                background: rgb(0, 0, 0);
+                float:right;
+                width:80%;
+                margin-left:10px;
+                padding:1px;
+                position: absolute;
+                top: 250px;
+                left: 280px;
+                color: aliceblue;
+            }
+            
+            
+            
+            #sfo-landing{
+                position: absolute;
+                top: 150px;
+                left: 20px;
+                float:left;
+            }
+            #pic2{position: absolute;
+                top: 340px;
+                left: 20px;
+                }
+            #top-pic{position: absolute;
+                    top: 45px;
+                    left: 530px;
+            
+                    }  
+            #pic3{position: absolute;
+                top: 520px;
+                left: 20px;
+                    }
+            #Airbus{position: absolute;
+                    top: 508px;
+                    left: 530px;;
+                    font-family: monospace; 
+                    color: rgb(255, 255, 255); 
+                    font-size: large;
+                    }  
+
+            #Boeing{font-size: large;}
+            #b{ position: absolute;
+                top: 720px;
+                left: 20px;}
+
+   
